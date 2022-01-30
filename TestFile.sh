@@ -1,0 +1,3 @@
+SDM LabExam
+
+Creating git repository...
